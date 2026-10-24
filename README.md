@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 🔗 **Live demo:** _(Netlify URL pending deploy)_
-📜 **PackSlot:** `0x…` (Sepolia, verified — pending deploy)
+📜 **PackSlot:** [0x2E7A9c152DFcA186A569ca4AE2E2372CB18ef822](https://sepolia.etherscan.io/address/0x2E7A9c152DFcA186A569ca4AE2E2372CB18ef822)
 
 ---
 

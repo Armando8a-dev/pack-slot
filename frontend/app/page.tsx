@@ -10,9 +10,9 @@ import {
   useWaitForTransactionReceipt,
 } from "wagmi";
 
-// Pending deploy — replace with the real Sepolia address after `forge script`.
-const CONTRACT = "0x0000000000000000000000000000000000000000" as const;
-const CONTRACT_DEPLOYED = false;
+// Deployed to Sepolia — PackSlot (Block 25).
+const CONTRACT = "0x2E7A9c152DFcA186A569ca4AE2E2372CB18ef822" as const;
+const CONTRACT_DEPLOYED = true;
 
 const ABI = [
   { type: "function", name: "owner", stateMutability: "view", inputs: [], outputs: [{ type: "address" }] },
